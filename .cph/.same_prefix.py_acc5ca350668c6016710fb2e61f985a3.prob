@@ -1,0 +1,1 @@
+{"name":"Local: same_prefix","url":"c:\\Users\\Admin\\Desktop\\p\\same_prefix.py","tests":[{"id":1772538753464,"input":"flower flow flight","output":"fl"},{"id":1772538795335,"input":"dog racecar car","output":"_"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\p\\same_prefix.py","group":"local","local":true}
